@@ -1,6 +1,7 @@
 import Quickshell
 import Quickshell.Services.Pipewire
 import QtQuick
+import ".."
 
 Text {
   readonly property PwNode sink: Pipewire.defaultAudioSink

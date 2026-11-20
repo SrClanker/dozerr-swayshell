@@ -1,6 +1,7 @@
 import Quickshell
 import Quickshell.Services.UPower
 import QtQuick
+import ".."
 
 Text {
   readonly property var devices: UPower.devices.values

@@ -1,6 +1,7 @@
 import Quickshell
 import Quickshell.I3
 import QtQuick
+import ".."
 
 Repeater {
   model: I3.workspaces

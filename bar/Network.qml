@@ -2,6 +2,7 @@ import Quickshell
 import Quickshell.Networking
 import QtQuick
 import QtQuick.Layouts
+import ".."
 
 Text {
   id: text
